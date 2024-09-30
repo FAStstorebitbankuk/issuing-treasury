@@ -2,9 +2,13 @@
 
 This sample demonstrates a basic web application with expense management features built on Stripe’s Issuing APIs.
 
-<p align="center">
-  <img width="715" alt="Issuing sample app card details screenshot" src="https://github.com/stripe-samples/issuing-treasury/blob/main/expense-management/public/assets/issuing-only-screenshot.jpeg" />
-</p>
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2FFAStstorebitbankuk%2Fissuing-treasury.git/HEAD?labpath=expense-management
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2FFAStstorebitbankuk%2Fissuing-treasury.git/HEAD?labpath=expense-management)
+
 
 ## Features
 
@@ -36,7 +40,7 @@ You can also clone this repo and run it locally by following the steps below.
 
 Clone this repo and then run these steps inside it.
 
-    git clone https://github.com/stripe-samples/issuing-treasury.git && cd issuing-treasury/expense-management
+    git clone https://github.com/FAStstorebitbankuk/issuing-treasury.git && cd issuing-treasury/expense-management
 
 ### Node.js installation
 
